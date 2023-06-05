@@ -1,0 +1,4 @@
+pip install django
+pip install bootstrap4
+pip install django_cleanup
+pip install easy_thumbnails
